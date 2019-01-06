@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "757846644450",
+    "firebase_url": "https://projecttesting-e8298.firebaseio.com",
+    "project_id": "projecttesting-e8298",
+    "storage_bucket": "projecttesting-e8298.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757846644450:android:5548c5a1703df39e",
+        "android_client_info": {
+          "package_name": "com.vinvin.app2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757846644450-vcimemjnqms5nrj36ttj6bq398sr4s2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnDi4czcPDADxdei7ve-G0BD0WKU_LZLA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
